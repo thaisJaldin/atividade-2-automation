@@ -1,4 +1,4 @@
-package com.impacta.actividade.automation.support;
+package support;
 
 import com.jayway.restassured.http.ContentType;
 import com.jayway.restassured.response.Header;

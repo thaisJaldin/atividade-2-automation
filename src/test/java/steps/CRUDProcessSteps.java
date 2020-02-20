@@ -1,7 +1,7 @@
-package com.impacta.actividade.automation.steps;
+package steps;
 
-import com.impacta.actividade.automation.definition.CRUDProcess;
-import com.impacta.actividade.automation.support.RESTSupport;
+import definition.CRUDProcess;
+import support.RESTSupport;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

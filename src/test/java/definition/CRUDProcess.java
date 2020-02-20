@@ -1,4 +1,4 @@
-package com.impacta.actividade.automation.definition;
+package definition;
 
 import groovy.json.internal.LazyMap;
 
