@@ -19,6 +19,6 @@ Será necessário entregar um material de testes de integração, o projeto deve
 - Deverá ser colocado no GitHub.
 - No README do projeto deverá conter o nome dos dois alunos da dupla.
 
-#Alunos
+# Alunos
 - Ticiani Aguiar Almeida
 - Thais Grisel Jaldin Siles
